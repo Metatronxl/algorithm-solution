@@ -1,4 +1,4 @@
-# leetcode-solution
+# leetcode学习记录
 
 ----
 
